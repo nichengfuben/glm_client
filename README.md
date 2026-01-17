@@ -25,8 +25,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/nichengfuben/chat-z-ai-automation.git
-cd chat-z-ai-automation
+git clone https://github.com/nichengfuben/glm_client.git
+cd glm_client
 ```
 
 ### 2. 创建虚拟环境
