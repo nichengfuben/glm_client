@@ -25,7 +25,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/chat-z-ai-automation.git
+git clone https://github.com/nichengfuben/chat-z-ai-automation.git
 cd chat-z-ai-automation
 ```
 
