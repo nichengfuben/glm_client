@@ -1,0 +1,18 @@
+# chat.z.ai 高性能异步自动化交互模块依赖
+
+# 核心依赖
+selenium>=4.20.0
+undetected-chromedriver>=3.5.5
+selenium-stealth>=1.0.6
+
+# 异步支持
+asyncio-compat>=0.1.0;python_version<"3.14"
+
+# 开发依赖（可选）
+# pytest>=8.0.0
+# pytest-asyncio>=0.23.0
+# pytest-cov>=5.0.0
+# mypy>=1.10.0
+# black>=24.0.0
+# isort>=5.13.0
+# pylint>=3.2.0
